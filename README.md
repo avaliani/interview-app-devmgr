@@ -59,9 +59,9 @@ Now browse to the app at `http://localhost:8000`.
 
 ### Notes
 
-This repo is a modification of the [angular seed repo](https://github.com/angular/interview-app-devmgr).
+Since we use this repo for asking interview questions, please do not publish question solutions based on this repo. Instead please modify your clone locally and send us your question solutions as a zip file via email, drop box, drive, etc. Thank you.
 
-Since we use this repo for asking interview questions, please do not publish question solutions based on this repo. Instead please modify your clone locally and send us your solution as a zip file via email, drop box, drive, etc. Thank you.
+This repo is a modification of the [angular seed repo](https://github.com/angular/interview-app-devmgr).
 
 Copyright Nyansa 2014
 
