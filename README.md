@@ -61,6 +61,8 @@ Now browse to the app at `http://localhost:8000`.
 
 This repo is a modification of the [angular seed repo](https://github.com/angular/interview-app-devmgr).
 
+Since we use this repo for asking interview questions, please do not publish question solutions based on this repo. Instead please modify your clone locally and send us your solution as a zip file via email, drop box, drive, etc. Thank you.
+
 Copyright Nyansa 2014
 
 [git]: http://git-scm.com/
