@@ -1,4 +1,4 @@
-# interview-app-devmgr - interview question around building a device manager.
+# interview-app-devmgr - interview question about enhancing a device manager
 
 
 ## Getting Started
