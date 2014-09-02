@@ -1,0 +1,15 @@
+{
+  "name": "interview-app-devmgr",
+  "description": "Interview question app - Device Manager",
+  "version": "0.0.0",
+  "homepage": "https://github.com/avaliani/interview-app-devmgr",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-route": "1.2.x",
+    "angular-mocks": "~1.2.x",
+    "bootstrap": "~3.2.x",
+    "jquery": "~2.1.0"
+  }
+}
